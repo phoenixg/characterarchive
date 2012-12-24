@@ -1,4 +1,4 @@
-characterarchive
+CHARACTERARCHIVE
 ================
 
-人物信息档案系统
+基于Slim Framework的人物信息档案系统
