@@ -1,7 +1,7 @@
 CHARACTERARCHIVE
 ================
 
-基于Laravel Framework的人物信息档案系统（abbr. CA）
+基于 Laravel Framework 3.2.12 的人物信息档案系统（abbr. CA）
 
 参考：
 [memcached] http://net.tutsplus.com/tutorials/php/faster-php-mysql-websites-in-minutes/?search_index=1
